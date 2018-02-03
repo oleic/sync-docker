@@ -3,7 +3,7 @@
 # VERSION               0.1
 #
 
-FROM ubuntu
+FROM resin/rpi-raspbian
 MAINTAINER Resilio Inc. <support@resilio.com>
 LABEL com.resilio.version="2.5.12"
 
